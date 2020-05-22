@@ -7,8 +7,8 @@
 | Motherboard + Power |         DeskMini 310          |
 |         CPU         |     Intel i9-9900es qqbz      |
 |       Memory        |     ADATA DDR4 2666 32GB      |
-|       Disk 1        | WD 1TB SSD SN550 (For macOS)  |
-|       Disk 2        | UNIC S100 240GB (For Windows) |
+|       Disk 1        | WD SN550 1TB (macOS)  |
+|       Disk 2        | UNIC S100 240GB (Windows) |
 |       Cooler        |            AXP90I             |
 |         NIC         |          BCM94360CS2          |
 
